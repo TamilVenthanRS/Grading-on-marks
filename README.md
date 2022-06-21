@@ -1,4 +1,6 @@
-# Grading-on-marks
+### EX NO:03
+### DATE: 
+# <p align="center"> Grading on marks</p> 
 
 ## Aim:
 To write a C# program to grade the marks
@@ -54,7 +56,7 @@ namespace Grade
 ```
 ## Output:
 
-![3](https://user-images.githubusercontent.com/75235477/165477496-7de0b711-791f-445e-9c07-f5cc88936e8c.png)
+![165477496-7de0b711-791f-445e-9c07-f5cc88936e8c](https://user-images.githubusercontent.com/75235477/174750312-8cd184e4-1584-4e03-9d75-482a1081f0c9.png)
 
 
 ## Result:
